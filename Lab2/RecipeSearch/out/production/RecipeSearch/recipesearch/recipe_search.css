@@ -1,0 +1,37 @@
+.text-normal{
+    -fx-font-size: 12px;
+    -fx-font-family: "Bangla MN";
+}
+
+.text-smaller {
+    -fx-font-size: 11px;
+    -fx-font-family: "Bangla MN";
+}
+
+.text-larger {
+    -fx-font-size: 13px;
+    -fx-font-family: "Bangla MN";
+}
+
+.text-superLarger {
+    -fx-font-size: 19px;
+    -fx-font-family: "Bangla MN";
+}
+
+#logo{
+    -fx-font-size: 48px;
+    -fx-font-family: "Phosphate";
+}
+
+#logo-twirl{
+    -fx-font-size: 64px;
+    -fx-font-family: "SignPainter";
+}
+
+.text-area .content {
+    -fx-background-color: -fx-background;
+}
+
+.text-area  {
+    -fx-background-color: -fx-background;
+}
